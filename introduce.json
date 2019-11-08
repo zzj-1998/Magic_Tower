@@ -1,0 +1,1 @@
+{"type":"Dialog","props":{"width":1280,"height":960},"compId":2,"child":[{"type":"Rect","props":{"y":65,"x":386,"width":850,"lineWidth":0,"height":832,"fillColor":"#000000"},"compId":3},{"type":"Script","props":{"monster":"@Prefab:prefab/monster.prefab","runtime":"game/Introduce.js"},"compId":4}],"loadList":["prefab/monster.prefab"],"loadList3D":[]}

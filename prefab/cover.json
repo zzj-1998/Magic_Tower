@@ -1,0 +1,1 @@
+{"type":"Sprite","props":{"y":0,"x":0,"texture":"gameImg/保护罩.png","presetID":1,"pivotY":40,"pivotX":40,"name":"cover","isPresetRoot":true},"compId":29,"loadList":["gameImg/保护罩.png"],"loadList3D":[]}

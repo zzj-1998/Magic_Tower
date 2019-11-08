@@ -1,0 +1,1 @@
+{"type":"Dialog","props":{"width":1280,"height":960},"compId":2,"child":[{"type":"Sprite","props":{"y":0,"x":0,"width":1280,"texture":"gameImg/说明.png","height":960},"compId":3,"child":[{"type":"Button","props":{"y":118,"x":1031,"skin":"gameImg/关闭.png","name":"close"},"compId":4}]}],"loadList":["gameImg/说明.png","gameImg/关闭.png"],"loadList3D":[]}
